@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+python-dotenv==1.0.0
+python-multipart==0.0.6
+langchain-core==0.1.40
+langchain-groq==0.1.0
+numpy==1.22.4
+typing-extensions>=4.7.0
+pydantic==1.10.8
